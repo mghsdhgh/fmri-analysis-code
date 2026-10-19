@@ -1,0 +1,12 @@
+/ContrastName1	right hipp- group mean 
+/ContrastName2	mlat5_positive 
+/ContrastName3	mlat5_negative 
+/NumWaves	6
+/NumContrasts	3
+/PPheights		1.000000e+00	1.752922e+01	1.752922e+01
+/RequiredEffect		0.377	1.604	1.604
+
+/Matrix
+1.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+0.000000e+00 1.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+0.000000e+00 -1.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
